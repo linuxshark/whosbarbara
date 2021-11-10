@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   The official Praise No One website.
 url: "" # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "/praisenoone"    # place folder name if the site is served in a subfolder
-image: '/assets/profile.webp'
 # Build settings
 # theme: minima
 plugins:
