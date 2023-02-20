@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Praise No One
-email: praisenoone@gmail.com
+title: Who's Barbara?
+email: whosbarbaraband@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The official Praise No One website.
+  The official Who's Barbara? website.
 url: "" # the base hostname and protocol for your site, e.g. http://example.com
-# baseurl: "/praisenoone"    # place folder name if the site is served in a subfolder
+# baseurl: "/whosbarbaraband"    # place folder name if the site is served in a subfolder
 # Build settings
 # theme: minima
 plugins:
