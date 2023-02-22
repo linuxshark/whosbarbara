@@ -10,7 +10,7 @@
 
 body {
         background: linear-gradient(-83deg, var(--red-blood), var(--red-dark), var(--red-dark-deep), var(--black));
-        background-image: url('{{ site.baseurl }}/assets/background.webp');
+        background-image: url('{{ site.baseurl }}/assets/background.jpg');
         background-attachment: fixed !important;
         animation: gradient 800s ease infinite;
         margin: 0px;
