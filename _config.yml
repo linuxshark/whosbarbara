@@ -22,7 +22,7 @@ title: Who's Barbara?
 email: whosbarbaraband@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The official Who's Barbara? website.
-#url: "" # the base hostname and protocol for your site, e.g. http://example.com
+url: "" # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: "/whosbarbara"    # place folder name if the site is served in a subfolder
 # Build settings
 # theme: minima
